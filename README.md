@@ -7,7 +7,7 @@
 My dashboard compatible with PC, smartphone, tablet
 
 
-
+Ik type hier even iets
 
 ## INTRODUCTION
 
